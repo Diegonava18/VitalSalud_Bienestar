@@ -120,6 +120,7 @@
             </p>
         </div>
     </footer>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/web3/1.3.5/web3.min.js"></script>
     <script type="text/javascript" src="src/utils.js"></script>
     <script type="text/javascript" src="src/index.js"></script>
 </body>
